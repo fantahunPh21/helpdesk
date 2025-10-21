@@ -31,7 +31,7 @@ If no API key is provided, the app uses a mock LLM.
 
 ### Run
 
-\`\`\`bash
+bash\`\`\`
 npm run dev
 \`\`\`
 
