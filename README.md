@@ -15,7 +15,7 @@ A small helpdesk chatbot that answers questions from a tiny markdown knowledge b
 
 ### Install
 
-\`\`\`bash
+bash\`\`\`
 npm install
 \`\`\`
 
