@@ -7,7 +7,7 @@ A small helpdesk chatbot that answers questions from a tiny markdown knowledge b
 - **Streaming Chat Interface** - Real-time responses as they're generated
 - **RAG Retrieval** - Intelligent document retrieval using BM25-inspired scoring
 - **Source Citations** - Automatic citations showing which documents were used
-- **Clickable Sources** - Tap a citation to open the exact section via `/api/doc`
+- **Clickable Sources** - Tap a citation to open the exact section via `/api/doc`.
 - **Knowledge Base** - Markdown-based documentation system
 - **Mock LLM Support** - Works without API keys for development
 
@@ -100,5 +100,6 @@ Try these sample questions:
 
 **Mock LLM**: Full flow runs without keys.
 
-Add your `OPENAI_API_KEY` to environment variables.
+Add your `OPENAI_API_KEY` to environment variables. 
+With API keys provided in the Env file. It works better
 
